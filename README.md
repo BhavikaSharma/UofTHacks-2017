@@ -1,4 +1,4 @@
-# UofTHacks-2017
+# UofTHacks-2017 - AI Ally
 
 Objective: 
 
